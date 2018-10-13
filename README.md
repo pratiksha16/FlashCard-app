@@ -2,7 +2,7 @@
 ### App Description
  This app allows the user to get the answers to the quiz questions. 
  ### App Walkthrough
-  <img src= "g.recordit.co/deGrECal2e.gif" width=200> <br>
+  <img src= "http://g.recordit.co/hGP3U7T5sr.gif" width=200> <br>
  
  
   ### User Stories:
