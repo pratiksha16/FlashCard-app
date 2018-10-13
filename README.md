@@ -2,7 +2,7 @@
 ### App Description
  This app allows the user to get the answers to the quiz questions. 
  ### App Walkthrough
-  <img scr= "g.recordit.co/hGP3U7T5sr.gif" width=200><br>
+  <img src= "g.recordit.co/hGP3U7T5sr.gif" width=200><br>
   ### User Stories:
   ## Required
 - [X ] Create New Project in Android Studio
