@@ -4,8 +4,8 @@
 This app allows the users to create their on flashcard questions and answers and browse through them.
 
 ### App Walk-though
-<img src="http://g.recordit.co/O0DM6z2zC3.gif
-" width=200><br>
+<img src="http://g.recordit.co/O0DM6z2zC3.gif" width=200><br>
+ 
 
 
 ## Required
